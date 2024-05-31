@@ -1,6 +1,6 @@
 proxies:
   - name: Syukur
-    server: quiz.vidio.com
+    server: ava.game.naver.com
     port: 80
     type: vmess
     uuid: 761d25be-f2bc-4d9c-83d6-3db51e569d67
